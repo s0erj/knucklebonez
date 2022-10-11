@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knucklebones", "Knucklebones.csproj", "{0D6E1792-9CDF-43D8-B06F-7B37F9D0664C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D6E1792-9CDF-43D8-B06F-7B37F9D0664C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6E1792-9CDF-43D8-B06F-7B37F9D0664C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6E1792-9CDF-43D8-B06F-7B37F9D0664C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6E1792-9CDF-43D8-B06F-7B37F9D0664C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFEA50BB-896C-4877-9927-ED141E01E25D}
+	EndGlobalSection
+EndGlobal
